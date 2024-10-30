@@ -1,0 +1,89 @@
+#cg-title {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: thin black solid;
+}
+#version {
+	margin-bottom: -10px;
+	border-bottom: solid thin black;
+	width: 75px;
+	margin-top: -5px;
+}
+#version-radio {
+	padding: 2px;
+	padding-top: 1px;
+	line-height: 1.8;
+	margin-bottom: 20px;
+}
+#buttons-title {
+	margin-bottom: -10px;
+	border-bottom: solid thin black;
+	width: 75px;
+	margin-top: -5px;
+}
+#buttons {
+	padding: 2px;
+	padding-top: 1px;
+	line-height: 1.8;
+	margin-bottom: 20px;
+	width: 300px;
+	text-align: right;
+}
+#stats-title {
+	margin-bottom: -10px;
+	border-bottom: solid thin black;
+	width: 145px;
+	margin-top: -5px;
+}
+#stats_page_titles {
+	padding: 2px;
+	padding-top: 1px;
+	line-height: 1.8;
+	margin-bottom: 20px;
+	width: 300px;
+	text-align: right;
+}
+#lic {
+	margin-bottom: -10px;
+	border-bottom: solid thin black;
+	width: 175px;
+	margin-top: -5px;
+}
+#level_comment {
+	padding: 2px;
+	padding-top: 1px;
+	line-height: 1.8;
+	margin-bottom: 20px;
+}
+#admin_bar_area {
+	background-color: white;
+	height: 150px !important;
+	text-align: right;
+	width: 300px !important;
+	color: inherit !important;
+}
+#rm {
+	margin-bottom: 10px !important;
+	border-bottom: solid thin black;
+	width: 145px;
+	margin-top: -5px;
+}
+#eq_text {
+	margin-left: 200px;
+}
+#rq_m {
+	width: 150px;
+	float: left;
+}
+#minutes {
+	margin-bottom: 25px;
+}
+#minutes_title {
+	border-bottom: solid thin black;
+	width: 75px;
+	margin-bottom: 10px;
+}
+.cube_gold_form {
+	margin: 0;
+	display: inline;
+}
